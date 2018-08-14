@@ -4,7 +4,7 @@ package firoz.daily.trade.report;
  * Hello world!
  *
  */
-public class App 
+public class DailyTradeReport 
 {
     public static void main( String[] args )
     {
